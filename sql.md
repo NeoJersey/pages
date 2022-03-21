@@ -1,0 +1,15 @@
+- [[627 swap salary]]
+- [[1179 Reformat Department Table]]
+- [[196 delete dup emails]]
+- [[197 rising temperature]]
+- [[offset]]
+- [[178 rank scores]]
+- [[180 consecutive numbers]]
+- [[184 department highest salary]]
+- [[602 Friend Requests II: Who Has the Most Friends]]
+- [[597 Friend Requests I: Overall Acceptance Rate]]
+- [[603 consecutive available seats]]
+- [[window functions]]
+- [[1179. Reformat Department Table]]
+-
+-

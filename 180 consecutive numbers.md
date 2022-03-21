@@ -1,0 +1,3 @@
+- ![image.png](../assets/image_1647867758994_0.png)
+- https://leetcode-cn.com/problems/consecutive-numbers/
+- 连续xx，都是要连表。inner join似乎更高效
